@@ -1,0 +1,1 @@
+console.log('Layout JS file is included.');
